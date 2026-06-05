@@ -69,7 +69,7 @@ No issues found!
 
 | Verificación de Flutter |
 |-------------------------|
-| <img width="896" height="229" alt="image" src="https://github.com/user-attachments/assets/c2f0402f-a98f-47d8-a990-7b3e9c688e5f" />|
+| <img width="768" height="200" alt="image" src="https://github.com/user-attachments/assets/c2f0402f-a98f-47d8-a990-7b3e9c688e5f" />|
 
 <br>
 
